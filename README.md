@@ -30,7 +30,7 @@ Some information for residents.
 - Re-open the shutoff valve 
 
 ### 2: Be kind to your shut-off valve
-Using the shut-off valve frequently wears it out.  It also loses water and steam if the packing nut comes loose.  This is easily fixed in minutes!  Is your plaster damp around it?
+Using the shut-off valve frequently wears it out.  It also loses water and steam if the packing nut comes loose.  Does it rattle when you open or close it?  This is easily fixed in minutes!  Is your plaster damp around it?
 
 ![Shutoff](ShutoffRad.jpg)
 
