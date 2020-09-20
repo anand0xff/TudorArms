@@ -7,19 +7,18 @@ Some information for residents.
 
 **Extend shut-off valve life and control your heat better!**
 
-*Help extend our boiler life, saving you as well as TA money*
+*Help extend our boiler life, saving you and TA money*
 
 ### Regulator Valves
 #### Old rocket nose cone regulator  &  Replacement new regulator
-*side by side pics, with names & URLs in captions, current web price).*
+*side by side pics, with names & URLs in captions, current web price*
 
 *Point out possible plaster damp near valve (leaks happen at the top - detectable with a finger held just above it when steam's up)*
 
-#### How many of these do you have?  Hoffman #1A __ Vent Rite #1__
+#### How many Hoffman #1A and Vent Rite #1 valves do you have?
 ![Valves](RadiatorValvesTxt.jpg)
 
- (I can't see
-  many residents doing this.  We could arrange a single plumber visit with cost sharing)
+ *I can't see many residents doing this.  We could arrange a single plumber visit with cost sharing)*
 #### Replacing these is best done when the heat isn't running (for safety's sake):   
 - Close the radiator's shut off valve 
 - Remove its cover if it has one 
@@ -29,8 +28,8 @@ Some information for residents.
 - Replace the radiator cover 
 - Re-open the shutoff valve 
 
-### Be kind to your shut off valve
-Using the shut off valve frequently wears it out.  It also loses water and steam if the packing nut comes loose.  This is easily fixed in minutes!  Is it rusted at the bottom like this one?  Is your plaster damp around it?
+### Be kind to your shut-off valve
+Using the shut-off valve frequently wears it out.  It also loses water and steam if the packing nut comes loose.  This is easily fixed in minutes!  Is it rusted at the bottom like this one?  Is your plaster damp around it?
 
 ![Shutoff](ShutoffRad.jpg)
 
