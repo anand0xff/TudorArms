@@ -8,7 +8,9 @@ Some information for residents.
 **Extend shut-off valve life and control your heat better**  
 **Help extend our boiler life, saving you and TA money**
 
-### How? Replace nose-cone style with new Vent Rites
+## How? Two ways...
+
+### 1: Replace nose-cone style with new Vent Rites
 ![Valves](RadiatorValvesTxt.jpg)
 
 *Names & URLs in captions, current web price*
@@ -27,7 +29,7 @@ Some information for residents.
 - Replace the radiator cover 
 - Re-open the shutoff valve 
 
-### Be kind to your shut-off valve
+### 2: Be kind to your shut-off valve
 Using the shut-off valve frequently wears it out.  It also loses water and steam if the packing nut comes loose.  This is easily fixed in minutes!  Is it rusted at the bottom like this one?  Is your plaster damp around it?
 
 ![Shutoff](ShutoffRad.jpg)
