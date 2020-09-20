@@ -9,12 +9,13 @@ Some information for residents.
 **Help extend our boiler life, saving you and TA money**
 
 ### How? Replace nose-cone style with new Vent Rites
-*side by side pics, with names & URLs in captions, current web price*
+![Valves](RadiatorValvesTxt.jpg)
+
+*Names & URLs in captions, current web price*
 
 *Point out possible plaster damp near valve (leaks happen at the top - detectable with a finger held just above it when steam's up)*
 
-#### How many Hoffman #1A and Vent Rite #1 valves do you have?
-![Valves](RadiatorValvesTxt.jpg)
+
 
  *I can't see many residents doing this.  We could arrange a single plumber visit with cost sharing)*
 #### Replacing these is best done when the heat isn't running (for safety's sake):   
