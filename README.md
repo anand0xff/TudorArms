@@ -8,7 +8,7 @@ Some information for residents.
 **Extend shut-off valve life and control your heat better**  
 **Help extend our boiler life, saving you and TA money**
 
-### Regulator Valves: replace nose-cone style withnew Vent Rites
+### How? Replace nose-cone style with new Vent Rites
 *side by side pics, with names & URLs in captions, current web price*
 
 *Point out possible plaster damp near valve (leaks happen at the top - detectable with a finger held just above it when steam's up)*
