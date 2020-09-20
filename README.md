@@ -34,3 +34,5 @@ Using the shut-off valve frequently wears it out.  It also loses water and stea
 
 ![Shutoff](ShutoffRad.jpg)
 
+## Water loss reduces boiler life!
+
