@@ -6,7 +6,7 @@ Some information for residents.
 *There's a problem with residents being responsible for this - they have to be motivated by the campaign.  Even if we don;t do them all, getting a lot of them will help.  Boiler water loss contributes to boiler wear and tear majorly, according to Gordon.  He's started me on my upper division boiler courses this semester.*
 
 **Extend shut-off valve life and control your heat better, save on repairs**  
-**Help extend our boiler life, which saves TA money in the long run**
+**Help extend our boiler life, saving TA money in the long run**
 
 ## How? Two ways...
 
