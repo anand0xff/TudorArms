@@ -15,10 +15,11 @@ Some information for residents.
 
 *Point out possible plaster damp near valve (leaks happen at the top - detectable with a finger held just above it when steam's up)*
 
-### How many of these do you have?
+#### How many of these do you have?  Hoffman #1A __ Vent Rite #1__
+![Valves](RadiatorValvesTxt.jpg)
 
-#### Hoffman #1A ____   Vent Rite #1_____
- (I can't see many residents doing this.  We could arrange a single plumber visit with cost sharing)
+ (I can't see
+  many residents doing this.  We could arrange a single plumber visit with cost sharing)
 #### Replacing these is best done when the heat isn't running (for safety's sake):   
 - Close the radiator's shut off valve 
 - Remove its cover if it has one 
@@ -28,8 +29,7 @@ Some information for residents.
 - Replace the radiator cover - Re-open the shutoff valve 
 
 ### Be kind to your shut off valve
-Using the shut off valve frequently wears it out.  It also loses water and steam if the packing nut comes loose.This is easily fixed in minutes!
-pic, with caption:
+Using the shut off valve frequently wears it out.  It also loses water and steam if the packing nut comes loose.  This is easily fixed in minutes!  Is it rusted at the bottom like this one?  Is your plaster damp around it?
 
-- Is it rusted at the bottom like this one?    
-- Is your plaster damp around it?
+![Shutoff](ShutoffRad.jpg)
+
