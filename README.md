@@ -5,7 +5,7 @@ Some information for residents.
 
 *There's a problem with residents being responsible for this - they have to be motivated by the campaign.  Even if we don;t do them all, getting a lot of them will help.  Boiler water loss contributes to boiler wear and tear majorly, according to Gordon.  He's started me on my upper division boiler courses this semester.*
 
-**Extend your radiator shut off valves life and control your heat better!**
+**Extend shut-off valve life and control your heat better!**
 
 *Help extend our boiler life, saving you as well as TA money*
 
@@ -26,7 +26,8 @@ Some information for residents.
 - Unscrew the old valve 
 - Screw in the new one (use pipe thread compound, or teflon tape, but keep it away from the opening) 
 - If necessary, get a hole cut in the cover so you can turn the steam control dial in the regulator 
-- Replace the radiator cover - Re-open the shutoff valve 
+- Replace the radiator cover 
+- Re-open the shutoff valve 
 
 ### Be kind to your shut off valve
 Using the shut off valve frequently wears it out.  It also loses water and steam if the packing nut comes loose.  This is easily fixed in minutes!  Is it rusted at the bottom like this one?  Is your plaster damp around it?
