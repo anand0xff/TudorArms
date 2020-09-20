@@ -13,7 +13,7 @@ Some information for residents.
 ### 1: Replace nose-cone style with new Vent Rites
 ![Valves](RadiatorValvesTxt.jpg)
 
-*Names & URLs in captions, current web price*
+[Plumbing and Heating Warehouse](https://www.phwarehouse.com/) sold me some Vent Rite #1's at $27 apiece plus shipping.
 
 *Point out possible plaster damp near valve (leaks happen at the top - detectable with a finger held just above it when steam's up)*
 
@@ -36,4 +36,3 @@ Using the shut-off valve frequently wears it out.  It also loses water and stea
 
 ### Boiler water loss last season totalled 2,000 gallons.
 Water loss is a major factor in boiler wear and tear.
-
