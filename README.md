@@ -9,7 +9,7 @@ Technical information for residents, gleaned from the master plumber from our bo
 If your radiator makes tinkling noises it might be spitting water.  Hissing could mean you have a steam leak.  
 
 
-Extend shut-off valve life, control your heat better, and save on repairs.  Help extend our boiler life, saving us money in the long run
+Extend shut-off valve life, control your heat better, and save on repairs.  Help extend our boiler life too, saving us money in the long run
 
 
 ### How? Two ways...
