@@ -1,38 +1,37 @@
 ## TudorArms 
 
-Some information for residents.   
+Technical information for residents, gleaned from the master plumber from our boiler servicing company.  All errors are mine.  I am not a plumber or a licensed heating person.   
+
+### Water loss is a key factor in shortening boiler life.
+### Our boiler lost 2,000 gallons in the 2019-2020 season.
 
 
-*There's a problem with residents being responsible for this - they have to be motivated by the campaign.  Even if we don;t do them all, getting a lot of them will help.  Boiler water loss contributes to boiler wear and tear majorly, according to Gordon.  He's started me on my upper division boiler courses this semester.*
+If your radiator makes tinkling noises, it might be spitting water.  Hissing could mean you have a steam leak.  
 
-**Extend shut-off valve life and control your heat better, save on repairs**  
-**Help extend our boiler life, saving TA money in the long run**
 
-## How? Two ways...
+Extend shut-off valve life and control your heat better, and save on repairs.  Help extend our boiler life, saving TA money in the long run
 
-### 1: Replace nose-cone style with new Vent Rites
+
+### How? Two ways...
+
+### 1: Replace nose-cone style air venting valve with Vent Rite #1
 ![Valves](RadiatorValvesTxt.jpg)
 
-[Plumbing and Heating Warehouse](https://www.phwarehouse.com/) sold me some Vent Rite #1's at $27 apiece plus shipping.
+[Plumbing and Heating Warehouse](https://www.phwarehouse.com/) sold me some Vent Rite #1's at $27 apiece plus shipping.  
+	
+Steam and water leaks can damage nearby plaster and wood.  
+	*-Hold a finger above the vent valve when steam's up to detect a leak.  
+	-Put a dry paper towel under the vent valve and the shutoff valve to detect drips.*
 
-*Point out possible plaster damp near valve (leaks happen at the top - detectable with a finger held just above it when steam's up)*
+I replaced mine when the heat wasn't running, on a warm day (for safety's sake).  A plumber might be brave enough to do this at other times.  Instructions are on the inside of the Vent-Rite box, if you are feeling a bit DIY (no explicit or implied guarantees from me, though!).   
 
+My Vent-Rite #1 reduces the radiator heat a lot when it's white setting dial is turned off all the way off (turn gently, lowering numbers, till it stops.  It might overshoot the "1" slightly, and look like it's at 8 or 7).  If it's fully open (8) it might spit and hiss.  I lower the dial until it stopped hissing, at around 3 or 4 on the dial).
 
-
- *I can't see many residents doing this.  We could arrange a single plumber visit with cost sharing)*
-#### Replacing these is best done when the heat isn't running (for safety's sake):   
-- Close the radiator's shut off valve 
-- Remove its cover if it has one 
-- Unscrew the old valve 
-- Screw in the new one (use pipe thread compound, or teflon tape, but keep it away from the opening) 
-- If necessary, get a hole cut in the cover so you can turn the steam control dial in the regulator 
-- Replace the radiator cover 
-- Re-open the shutoff valve 
 
 ### 2: Be kind to your shut-off valve
-Using the shut-off valve frequently wears it out.  It also loses water and steam if the packing nut comes loose.  Does it rattle when you open or close it?  This is easily fixed in minutes!  Is your plaster damp around it?
+Using the shut-off valve frequently wears it out.  In addition, it is only meant to be completely off, or fully open (backed off 1/2 a turn from the hard open stop).  It can spit water and steam if the packing nut works loose.  Does it rattle when you open or close it?  It shouldn't.  Get its packing nut tightened.  I tightened one packing nut, but got nervous at how much torque I had to apply.  I did reduce the leak rate.  The master plumber tightened it considerably more and stopped the leak.  He knows what he's doing.
 
 ![Shutoff](ShutoffRad.jpg)
 
-### Boiler water loss last season totalled 2,000 gallons.
-Water loss is a major factor in boiler wear and tear.
+
+**A concluding comment: clanking and banging are not part of normal steam heat operations, but it takes iterated summer maintenance/repair sessions to reduce or eliminate these.**
