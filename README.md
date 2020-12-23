@@ -21,7 +21,7 @@ Extend shut-off valve life, control your heat better, and save on repairs.  Help
 	
 Steam and water leaks can damage nearby plaster and wood.  
 	*-Hold a finger above the vent valve when steam's up to detect a leak.  
-	-Put a dry paper towel under the vent valve and the shutoff valve to detect drips.*
+	-Put a dry paper towel under the vent valve and the shut-off valve to detect drips.*
 
 I replaced mine when the heat wasn't running, on a warm day (for safety's sake).  A plumber might be brave enough to do this at other times.  Instructions are on the inside of the Vent-Rite box, if you are feeling a bit DIY (no explicit or implied guarantees from me, though!).   
 
