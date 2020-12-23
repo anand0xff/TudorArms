@@ -25,7 +25,7 @@ Steam and water leaks can damage nearby plaster and wood.
 
 I replaced mine when the heat wasn't running, on a warm day (for safety's sake).  A plumber might be brave enough to do this at other times.  Instructions are on the inside of the Vent-Rite box, if you are feeling a bit DIY (no explicit or implied guarantees from me, though!).   
 
-My Vent-Rite #1 reduces the radiator heat a lot when it's white setting dial is turned down all the way (turn gently, lowering numbers, till it stops.  It might overshoot the "1" slightly, and look like it's at 8 or 7 before it stops).  If it's fully open (8) it might spit and hiss.  I lower the dial until it stopped hissing, at around 3 or 4).
+My Vent-Rite #1 reduces the radiator heat a lot when it's white setting dial is turned down all the way (turn gently, lowering numbers, till it stops.  It might overshoot the "1" slightly, and look like it's at 8 or 7 before it stops).  If it's fully open (8) it might spit and hiss.  I lowered the dial until it stopped hissing, at around 3 or 4).
 
 
 ### 2: Be kind to your shut-off valve
