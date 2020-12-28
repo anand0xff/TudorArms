@@ -1,6 +1,6 @@
 ## TudorArms 
 
-Technical information for residents, gleaned from the master plumber from our boiler servicing company.  All errors are mine.  I am not a plumber or a licensed heating person.   
+Technical information for residents, gleaned from the master plumber from our boiler servicing company (All Steamed Up, Towson, MD, and his [tutorial videos](https://m.youtube.com/channel/UCA_ZKNA-k-nA4eH5qNb3jXA/videos)).  All errors are mine.  I am not a plumber or a licensed heating person.   
 
 ### Water loss is a key factor in shortening boiler life.
 ### Our boiler lost 2,000 gallons in the 2019-2020 season.
